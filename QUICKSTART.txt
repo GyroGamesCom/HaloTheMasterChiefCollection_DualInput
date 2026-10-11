@@ -1,0 +1,45 @@
+DUAL INPUT MOD for Halo: The Master Chief Collection
+====================================================
+
+Gyro and gamepad work at the same time, and the game stays in gamepad mode
+(gamepad button prompts are shown). Full details are in README.md.
+
+REQUIREMENTS
+  - Steam version of MCC (not Microsoft Store / Game Pass).
+  - The game must be launched WITHOUT Easy Anti-Cheat: in Steam choose
+    "Play without Anti-Cheat". With EAC the DLL is not loaded. Online play
+    requires EAC, so this is for campaign / offline only.
+
+INSTALLATION
+  1. Unzip anywhere.
+  2. Run install.bat. It finds the game through Steam (or asks for the folder).
+     When updating, it keeps your settings.
+  Manual: copy the 2 files from the "mod" folder next to MCC-Win64-Shipping.exe
+  (game folder\MCC\Binaries\Win64).
+
+UNINSTALL
+  Run uninstall.bat (or delete xinput1_3.dll, xinput_mouse.ini,
+  mixed_input.log and mixed_input.old.log from MCC\Binaries\Win64).
+
+STEAM INPUT
+  Gyro            -> "As Mouse"
+  Right trackpad  -> "Joystick" (right stick)
+  Everything else -> normal gamepad
+  The right trackpad/stick always has priority over gyro.
+
+SENSITIVITY
+  Gyro:      in-game mouse sensitivity, "GyroSensitivity" in xinput_mouse.ini,
+             or the Steam Input gyro settings
+  Trackpad:  Steam Input trackpad settings, or the in-game controller sensitivity
+  Changes to the ini take effect after restarting the game.
+  F10 toggles the mod on/off during gameplay.
+
+LIMITATIONS
+  - Tested only on Halo 2. The other games in the collection should work too,
+    but this is unverified.
+  - Gyro does not move the cursor in menus; use the gamepad there.
+  - The mod is tied to a specific game build. After a game update it disables
+    itself (the game behaves as without the mod) until a new version is released.
+
+Unofficial mod, not affiliated with Microsoft, Xbox Game Studios, Halo Studios
+or Valve. Use at your own risk.

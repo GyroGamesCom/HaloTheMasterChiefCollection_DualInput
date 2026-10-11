@@ -1,0 +1,45 @@
+GyroGamesCom Mod License
+========================
+
+Copyright (c) 2026 GyroGamesCom. All rights reserved.
+https://github.com/GyroGamesCom
+
+This license covers everything in this repository: the compiled mod files,
+the source code, the installer scripts and the documentation (the "Mod").
+
+1. PERSONAL USE
+   You may download, install and use the Mod for free for your own personal,
+   non-commercial use. You may study the source code and modify it for your
+   own private use.
+
+2. NO REDISTRIBUTION WITHOUT PERMISSION
+   You may NOT re-upload, mirror, repackage or otherwise distribute the Mod,
+   in original or modified form, in whole or in part, on any website, mod
+   site, store or service, without prior written permission from
+   GyroGamesCom. Link to the official download page instead.
+
+3. NO COMMERCIAL USE WITHOUT PERMISSION
+   You may NOT sell the Mod, include it in any paid product, bundle or
+   service, place it behind a paywall, or otherwise make money from it,
+   without prior written permission from GyroGamesCom.
+
+4. ATTRIBUTION
+   Any permitted distribution, modified version, or work based on the Mod
+   must clearly credit "GyroGamesCom" as the original author and link to
+   https://github.com/GyroGamesCom.
+
+5. VIDEOS AND STREAMS
+   You may show the Mod in videos, streams, reviews and guides, including
+   monetized ones, as long as you credit GyroGamesCom.
+
+6. PERMISSION REQUESTS
+   To ask for permission, open an issue in the official repository of the
+   Mod on https://github.com/GyroGamesCom.
+
+7. NO WARRANTY
+   THE MOD IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR
+   OTHER LIABILITY ARISING FROM THE USE OF THE MOD. USE AT YOUR OWN RISK.
+
+This is an unofficial fan mod. All game names and trademarks belong to their
+respective owners.

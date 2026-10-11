@@ -1,0 +1,14 @@
+# Local-only files (not published)
+NEXUS_PAGE.txt
+
+# Runtime logs
+*.log
+
+# Build intermediates
+src/*.obj
+src/*.exp
+src/*.lib
+src/*.pdb
+
+# Release packages
+dist/
