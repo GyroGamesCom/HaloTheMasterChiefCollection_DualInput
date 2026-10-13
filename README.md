@@ -3,8 +3,11 @@
 Gyro aiming and gamepad at the same time. Gyro moves the camera like a real mouse
 (linear, no stick curve), and the game keeps showing gamepad buttons.
 
-> **Offline only. The game must run with Easy Anti-Cheat OFF.**
-> Start it with **Play without Anti-Cheat**. With EAC on, the mod does not load.
+> **Offline only. Do not use it in multiplayer.**
+> The game has Easy Anti-Cheat (EAC). The mod works only with **Play without Anti-Cheat**,
+> so use it for the campaign and offline play only. Never try to play online with the mod;
+> mods in an anti-cheat protected game can get your account banned.
+> Uninstall the mod before playing online.
 
 ## What it does
 
